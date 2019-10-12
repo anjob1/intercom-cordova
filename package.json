@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-intercom-fork-google-services",
-  "version": "7.1.1",
+  "version": "7.1.5",
   "description": "Official Cordova/PhoneGap plugin for Intercom",
   "cordova": {
     "id": "cordova-plugin-intercom-fork-google-services",
